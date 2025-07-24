@@ -23,7 +23,7 @@ The primary objective of the AI-Powered Mock Interview System is to simulate rea
 
   ## How to run
   ### 1.Clone the repository and install dependencies:
-    git clone https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2.git
+    git clone https://github.com/22H51A6675/AI-Powered-Mock-interview-system
     cd AI-Powered-Mock-Interview-System-2
   ### 2.Navigate to the command prompt and Setup:
     Mack sure thet you are in a correct folder and type
