@@ -45,5 +45,5 @@ Good luck with your mock interviews!
 ![image alt](https://github.com/22H51A6675/AI-Powered-Mock-interview-system/blob/c2e03a0cfafcfcde2b387a8ad971c5a4b3f1c797/interface.png)
 ![image alt](https://github.com/22H51A6675/AI-Powered-Mock-interview-system/blob/b3b9287533b1e6deb6bb072bf879124c8306c343/interview_types.png)
 ![image alt](https://github.com/22H51A6675/AI-Powered-Mock-interview-system/blob/1d4599abc7270f8bd94fb5e1636df0adb06c8e44/new_interview_session.png)
-![image alt](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/575bd28f405ab8400c8410e25c338ee834970cba/interview_attending%20and%20result.png)
+![image alt](https://github.com/22H51A6675/AI-Powered-Mock-interview-system/blob/e5c53f62143d7a62c1551539970be2cdac6aad1d/interview_attending%20and%20result.png)
 ![image alt](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/d33b55522f6fdbd6e15cb4f3b0524c94c763e204/performance_dashboard.png)
