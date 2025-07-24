@@ -18,7 +18,8 @@ To empower candidates with a smart, accessible, and personalized platform that b
         <div className="team-info space-y-6 bg-gray-100 border border-gray-200 p-6 rounded-lg shadow-lg">
           <h2 className="text-2xl font-semibold text-blue-600 mb-6">Our Team</h2>
           <p className="text-gray-700">
-            We are a group of passionate AIML students from GRIET, committed to creating innovative solutions. This project is a testament to our skills and dedication.
+            We are passionate and driven individuals committed to delivering innovative and reliable solutions.
+            Our services reflect our dedication to excellence, creativity, and customer satisfaction.
           </p>
 
           <div className="space-y-4">
@@ -42,43 +43,23 @@ To empower candidates with a smart, accessible, and personalized platform that b
               </p>
             </div>
 
-            {/* N.Maneeth Reddy */}
+            {/* Ch.Chandravardhan Goud */}
             <div className="p-4 rounded-lg bg-white shadow-sm">
-              <h3 className="text-lg font-semibold text-indigo-600">Name: N.Maneeth Reddy</h3>
+              <h3 className="text-lg font-semibold text-indigo-600">Name: Ch.Chandravardhan Goud</h3>
               <p className="text-gray-700">
-                <strong>PinNo:</strong> 23245A6618
+                <strong>PinNo:</strong> 22H51A6675
               </p>
               <p className="text-gray-700">
-                <strong>Email:</strong> cmmaneethreddy@gmail.com
+                <strong>Email:</strong> chchandravardhan1501@gmail.com
               </p>
               <p className="text-gray-700">
-                <strong>Phone:</strong> +91 9110543081
+                <strong>Phone:</strong> +91 7815940137
               </p>
               <p className="text-gray-700">
-                <strong>Address:</strong> AIML-C GRIET
+                <strong>Address:</strong> CSE(AIML) - CMRCET
               </p>
               <p className="text-gray-700">
                 <strong>Role:</strong> Tech Lead
-              </p>
-            </div>
-
-            {/* K.Pavan Kalyan */}
-            <div className="p-4 rounded-lg bg-white shadow-sm">
-              <h3 className="text-lg font-semibold text-indigo-600">Name: K.Pavan Kalyan</h3>
-              <p className="text-gray-700">
-                <strong>PinNo:</strong> 22241A66F6
-              </p>
-              <p className="text-gray-700">
-                <strong>Email:</strong> Kethavathpavankalyan4096@gmail.com
-              </p>
-              <p className="text-gray-700">
-                <strong>Phone:</strong> +91 7075011480
-              </p>
-              <p className="text-gray-700">
-                <strong>Address:</strong> AIML-C GRIET
-              </p>
-              <p className="text-gray-700">
-                 <strong>Role:</strong> UI/UX Designer
               </p>
             </div>
           </div>

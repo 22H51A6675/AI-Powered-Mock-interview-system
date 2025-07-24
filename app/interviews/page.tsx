@@ -45,31 +45,31 @@ const ContactUs: React.FC<ContactUsProps> = () => {
 
             {/* N.Maneeth Reddy */}
             <div className="p-4 rounded-lg bg-white shadow-sm">
-              <h3 className="text-lg font-semibold text-indigo-600">Name: N.Maneeth Reddy</h3>
+              <h3 className="text-lg font-semibold text-indigo-600">Name: Ch. Chandravardhan Goud</h3>
               <p className="text-gray-700">
-                <strong>PinNo:</strong> 23245A6618
+                <strong>PinNo:</strong> 22H51A6675
               </p>
               <div className="flex items-center gap-2">
                 <Mail className="w-5 h-5 text-blue-600" />
                 <p className="text-gray-700">
-                  <strong>Email:</strong> cmmaneethreddy@gmail.com
+                  <strong>Email:</strong> chchandravardhan1501@gmail.com
                 </p>
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="w-5 h-5 text-blue-600" />
                 <p className="text-gray-700">
-                  <strong>Phone:</strong> +91 9110543081
+                  <strong>Phone:</strong> +91 7815940137
                 </p>
               </div>
               <div className="flex items-start gap-2">
                 <MapPin className="w-5 h-5 text-blue-600" />
                 <p className="text-gray-700">
-                  <strong>Address:</strong> AIML-C GRIET
+                  <strong>Address:</strong> CSE(AIML) - CMRCET
                 </p>
               </div>
             </div>
 
-            {/* K.Pavan Kalyan */}
+            {/* K.Pavan Kalyan
             <div className="p-4 rounded-lg bg-white shadow-sm">
               <h3 className="text-lg font-semibold text-indigo-600">Name: K.Pavan Kalyan</h3>
               <p className="text-gray-700">
@@ -93,7 +93,7 @@ const ContactUs: React.FC<ContactUsProps> = () => {
                   <strong>Address:</strong> AIML-C GRIET
                 </p>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
